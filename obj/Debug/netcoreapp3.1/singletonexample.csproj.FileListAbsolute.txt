@@ -1,0 +1,13 @@
+C:\Users\lutfi\Desktop\singletonexample\bin\Debug\netcoreapp3.1\singletonexample.exe
+C:\Users\lutfi\Desktop\singletonexample\bin\Debug\netcoreapp3.1\singletonexample.deps.json
+C:\Users\lutfi\Desktop\singletonexample\bin\Debug\netcoreapp3.1\singletonexample.runtimeconfig.json
+C:\Users\lutfi\Desktop\singletonexample\bin\Debug\netcoreapp3.1\singletonexample.runtimeconfig.dev.json
+C:\Users\lutfi\Desktop\singletonexample\bin\Debug\netcoreapp3.1\singletonexample.dll
+C:\Users\lutfi\Desktop\singletonexample\bin\Debug\netcoreapp3.1\singletonexample.pdb
+C:\Users\lutfi\Desktop\singletonexample\obj\Debug\netcoreapp3.1\singletonexample.csprojAssemblyReference.cache
+C:\Users\lutfi\Desktop\singletonexample\obj\Debug\netcoreapp3.1\singletonexample.csproj.CoreCompileInputs.cache
+C:\Users\lutfi\Desktop\singletonexample\obj\Debug\netcoreapp3.1\singletonexample.AssemblyInfoInputs.cache
+C:\Users\lutfi\Desktop\singletonexample\obj\Debug\netcoreapp3.1\singletonexample.AssemblyInfo.cs
+C:\Users\lutfi\Desktop\singletonexample\obj\Debug\netcoreapp3.1\singletonexample.dll
+C:\Users\lutfi\Desktop\singletonexample\obj\Debug\netcoreapp3.1\singletonexample.pdb
+C:\Users\lutfi\Desktop\singletonexample\obj\Debug\netcoreapp3.1\singletonexample.genruntimeconfig.cache
